@@ -1,0 +1,236 @@
+Log file created at: 2024/04/16 13:17:03  PID: 11016
+Running on machine: MSI
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0416 13:17:03.163208 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I0416 13:17:27.244459 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:17:35.427501 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:17:35.429502 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:17:54.422947 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:17:54.425982 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:18:18.701365 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0xff 
+ 
+I0416 13:18:20.892467 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0xff 
+ 
+I0416 13:18:21.978917 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0xff 
+ 
+I0416 13:18:33.557504 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:18:33.558503 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:18:36.963176 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:18:36.966169 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:27:52.042515 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:27:57.106536 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:27:57.108572 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:28:27.931090 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:28:27.933068 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:29:11.154347 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:29:11.155349 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:29:19.541323 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:29:19.543315 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:29:26.128863 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:29:26.128863 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0xff 
+ 
+I0416 13:29:34.411912 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:29:34.412912 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:29:50.338912 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:29:50.339912 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:30:18.924012 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:30:18.927017 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:31:11.667582 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:31:11.668582 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:31:15.357398 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:31:15.360445 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:31:16.602007 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv NAK 
+ 
+I0416 13:31:16.602007 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 retry send data, retrytimes = 1 
+ 
+I0416 13:31:16.670279 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv NAK 
+ 
+I0416 13:31:16.670279 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 retry send data, retrytimes = 1 
+ 
+I0416 13:31:16.702127 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv NAK 
+ 
+I0416 13:31:16.702127 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 retry send data, retrytimes = 1 
+ 
+I0416 13:31:16.766999 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv NAK 
+ 
+I0416 13:31:16.766999 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 retry send data, retrytimes = 1 
+ 
+I0416 13:31:30.411226 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0xff 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:31.055722 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv unknown 0x00 
+ 
+I0416 13:31:46.146296 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:31:46.147491 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:32:45.831739 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:32:45.833740 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:33:03.638391 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:33:03.639390 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:37:58.374755 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:38:03.736586 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:38:03.738600 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:38:17.746259 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:38:17.749697 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:38:59.078824 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:38:59.080825 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:39:06.729012 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:39:06.730005 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:40:09.998468 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:40:09.999467 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:40:11.221577 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:40:11.221577 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:40:49.664459 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:40:49.665460 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:41:02.318369 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:41:02.320374 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:41:05.968391 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:41:05.969213 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:48:45.124037 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:48:46.644616 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:48:53.388655 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:48:53.390663 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:49:08.780431 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:49:08.781354 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:49:45.157330 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:49:45.159209 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:49:50.439503 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:49:50.439503 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+I0416 13:50:15.140301 13896 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 13:50:15.142305 13896 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 13:50:19.050285 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 13:50:19.051251 21344 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1368 
+ 
+Log file created at: 2024/04/16 17:36:23  PID: 3676
+Running on machine: MSI
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0416 17:36:23.005635 32240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I0416 17:36:46.960530 32240 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 17:36:46.964929 32240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 17:36:52.620323 27240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 17:36:52.620826 27240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1277 
+ 
+I0416 17:37:05.416853 32240 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 17:37:05.418853 32240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 17:37:08.234005 27240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 17:37:08.234005 27240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1277 
+ 
+I0416 17:37:29.183710 32240 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 17:37:29.185710 32240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 17:37:32.534067 27240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 17:37:32.535540 27240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1277 
+ 
+I0416 17:38:10.512832 32240 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 17:38:10.514830 32240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 17:38:14.938256 27240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 17:38:14.938761 27240 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1277 
+ 
+Log file created at: 2024/04/16 22:07:12  PID: 10700
+Running on machine: MSI
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0416 22:07:12.521713 23716 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I0416 22:08:36.487471 23716 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 22:08:36.490469 23716 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 22:08:52.062675 23716 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 22:08:52.063674 23716 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 22:09:18.910441 23716 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 22:09:18.911443 23716 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 22:09:23.123780 23716 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 22:09:23.124779 23716 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 22:10:07.134909 23716 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 22:10:07.136420 23716 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 22:10:19.574613 23716 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 22:10:19.576655 23716 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 22:11:11.463930 23716 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 22:11:11.464931 23716 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 22:11:27.899574 17832 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 22:11:27.900640 17832 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1367 
+ 
+I0416 22:11:41.773253 17832 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 xmoderm recv CAN 
+ 
+I0416 22:11:55.447352 23716 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 4 
+I0416 22:11:55.448352 23716 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:4 
+ 
+I0416 22:12:07.521785 17832 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 XmodermSendFile detected CCC, start send file 
+ 
+I0416 22:12:07.521785 17832 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM4 ReadSendFile C:\Users\czj24\Desktop\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1367 
+ 

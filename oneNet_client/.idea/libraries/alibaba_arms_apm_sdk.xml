@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="alibaba.arms.apm.sdk" type="repository">
+    <properties maven-id="com.alibaba.arms.apm:arms-sdk:1.7.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/arms/apm/arms-sdk/1.7.3/arms-sdk-1.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
